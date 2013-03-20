@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Provjera računa</string>
+    <string name="action_settings">Settings</string>
+    <string name="jir">JIR</string>
+    <string name="fill_form">Popunite formu</string>
+    <string name="issuance_date">Datum izdavanja</string>
+    <string name="captcha">captcha</string>
+    <string name="amount">amount</string>
+    <string name="invalid_JIR">JIR je neispravnog formata</string>
+    <string name="invalid_amount">Iznos je neispravnog formata</string>
+    <string name="recognize">Recognize from photo</string>
+    <string name="recognize_short">Recognize</string>
+    <string name="title_activity_recognize">Recognize</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

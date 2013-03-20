@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/recognize_item"
+        android:title="@string/recognize"
+        android:titleCondensed="@string/recognize_short" 
+        android:showAsAction="ifRoom" 
+        android:icon="@android:drawable/ic_menu_camera" >
+    </item>
+
+</menu>
